@@ -195,6 +195,10 @@ python 05_make_figures.py \
       └─ pca_scatter_ComBat.png
 ```
 
+### Figures (inline previews)
+
+> If you're browsing on GitHub, the previews below load from `derivatives/figures/` produced by Step 5.
+
 ---
 
 ## Troubleshooting
