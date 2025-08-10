@@ -199,8 +199,6 @@ python 05_make_figures.py \
 
 > If you're browsing on GitHub, the previews below load from `derivatives/figures/` produced by Step 5.
 
----
-
 ## Troubleshooting
 
 - **Parquet engine not found** → `pip install pyarrow fastparquet` (both listed in `requirements.txt`).
